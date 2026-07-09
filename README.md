@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/Last%20Update-July%202026-informational" />
 </p>
 
-I'm a **final-year Computer Science student at FAST-NUCES** (Faisalabad, Pakistan), graduating in 2026. I'm passionate about **AI Engineering, Machine Learning, and Data Science**, and I love building full-stack applications powered by LLMs, RAG pipelines, and intelligent agents.
+I'm a **Fresh Graduate Computer Science student at FAST-NUCES** (Faisalabad, Pakistan), graduating in 2026. I'm passionate about **AI Engineering, Machine Learning, and Data Science**, and I love building full-stack applications powered by LLMs, RAG pipelines, and intelligent agents.
 
 - 🔭 Currently building full-stack apps with **Next.js, React, and AI integrations**
 - 🌱 Deepening my skills in **LangChain, RAG pipelines, and n8n workflow automation**
